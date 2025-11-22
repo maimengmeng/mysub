@@ -1379,17 +1379,14 @@ trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw4.453521.xyz:8080?allowInsecure=
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw11.352343.cc:8080/?insecure=0&sni=tw11.352343.cc#hy2%E5%8F%B0%E6%B9%BE05
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw7.344233.cc:8080/?insecure=0&sni=tw7.344233.cc#hy2%E5%8F%B0%E6%B9%BE06
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw40.453521.xyz:8080/?insecure=0&sni=tw40.453521.xyz#hy2%E5%8F%B0%E6%B9%BE07
-hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg03.344233.cc:8080/?insecure=0&sni=sg03.344233.cc#%E6%96%B0%E5%8A%A0%E5%9D%A103aws
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg04.352343.cc:8080/?insecure=0&sni=sg04.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A104BGP
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg05.453521.xyz:8080/?insecure=0&sni=sg05.453521.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A105BGP
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg07.344233.cc:8080/?insecure=0&sni=sg07.344233.cc#%E6%96%B0%E5%8A%A0%E5%9D%A107aws
-hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@vsg04.344233.cc:8080/?insecure=0&sni=vsg04.344233.cc#%E6%96%B0%E5%8A%A0%E5%9D%A108aws
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg10.352343.cc:8080/?insecure=0&sni=sg10.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A110BPG
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg11.352343.cc:8080/?insecure=0&sni=sg11.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A111BGP
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg12.352343.cc:8080/?insecure=0&sni=sg12.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A112BGP
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg13.352343.cc:8080/?insecure=0&sni=sg13.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A113BGP
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg19.453521.xyz:8080/?insecure=0&sni=sg19.453521.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A119aws
-hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@sg20.476579.xyz:8080/?insecure=0&sni=sg20.476579.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A120aws
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@1jp001.476579.xyz:8080/?insecure=0&sni=1jp001.476579.xyz#%E6%97%A5%E6%9C%AC03aws
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@hyfnjp06.376897.xyz:8080/?insecure=0&sni=hyfnjp06.376897.xyz#%E6%97%A5%E6%9C%AC05aws
 hysteria2://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@jp06.476579.xyz:8080/?insecure=0&sni=jp06.476579.xyz#%E6%97%A5%E6%9C%AC07aws
