@@ -1313,7 +1313,7 @@ ss://YWVzLTI1Ni1nY206SFc1M1kxMkZUWkU2VlZEVA==@ti3hyra4.slashdevslashnetslashtun.
 
 
 
-hysteria2://ef4eec52-1267-44d6-b9e6-358bd191c09a@dg.jgpyjc.top:41200/?insecure=0&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=41200-41450#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A22.73%20GB
+hysteria2://ef4eec52-1267-44d6-b9e6-358bd191c09a@dg.jgpyjc.top:41200/?insecure=0&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=41200-41450#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A22.69%20GB
 hysteria2://ef4eec52-1267-44d6-b9e6-358bd191c09a@dg.jgpyjc.top:41200/?insecure=0&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=41200-41450#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A1%20%E5%A4%A9
 hysteria2://ef4eec52-1267-44d6-b9e6-358bd191c09a@dg.jgpyjc.top:41200/?insecure=0&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=41200-41450#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-12-11
 hysteria2://ef4eec52-1267-44d6-b9e6-358bd191c09a@dg.jgpyjc.top:41200/?insecure=0&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=41200-41450#A-hy%E5%BE%B7%E5%9B%BD1
