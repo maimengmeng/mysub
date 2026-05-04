@@ -115,7 +115,7 @@ trojan://83f5fc61-463d-4978-a612-9e1e65ac9107@svip-tg.xiaobaivpn.icu:28806?allow
 trojan://83f5fc61-463d-4978-a612-9e1e65ac9107@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-1
 trojan://83f5fc61-463d-4978-a612-9e1e65ac9107@svip-sg.xiaobaivpn.icu:28814?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-2
 trojan://83f5fc61-463d-4978-a612-9e1e65ac9107@svip-sg.xiaobaivpn.icu:28815?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-3
-trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A36.73%20GB
+trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A30.26%20GB
 trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A24%20%E5%A4%A9
 trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-05-29
 trojan://3da541c5-9df1-46d1-981e-2f70537988fc@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E9%A6%99%E6%B8%AFSVIP-1
@@ -379,7 +379,7 @@ trojan://07674705-f964-4314-93bf-65ae6bde387e@svip-tg.xiaobaivpn.icu:28806?allow
 trojan://07674705-f964-4314-93bf-65ae6bde387e@svip-sg.xiaobaivpn.icu:28813?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-1
 trojan://07674705-f964-4314-93bf-65ae6bde387e@svip-sg.xiaobaivpn.icu:28814?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-2
 trojan://07674705-f964-4314-93bf-65ae6bde387e@svip-sg.xiaobaivpn.icu:28815?allowInsecure=0&peer=&sni=&type=tcp#%E6%96%B0%E5%8A%A0%E5%9D%A1SVIP-3
-trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A77.41%20GB
+trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A70.36%20GB
 trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A24%20%E5%A4%A9
 trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-05-29
 trojan://e2b2ba69-7c46-4ea4-b453-b3cbc0fdb1f3@svip-hk.xiaobaivpn.icu:28816?allowInsecure=1&peer=&sni=&type=tcp#%E9%A6%99%E6%B8%AFSVIP-1
@@ -1006,8 +1006,6 @@ vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@tw06.352343.cc:8443?type=tcp&encryp
 vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@tw5.453521.xyz:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E5%8F%B0%E6%B9%BE03
 vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2600:1f14:3ba9:f400:9962:848f:9750:d696]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E7%BE%8E%E5%9B%BDIPv6
 vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2406:da14:c79:fe00:f603:ff8:c1a8:62d0]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%97%A5%E6%9C%ACIPv6
-vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2400:8902::2000:ecff:fe97:3d64]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%97%A5%E6%9C%AC01IPv6
-vless://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@[2400:8901::2000:2fff:fe2b:aba5]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%96%B0%E5%8A%A0%E5%9D%A101IPv6
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@5gzdx.233235.xyz:8080/?insecure=0&sni=5gzdx.233235.xyz#hy2%E5%8F%B0%E6%B9%BE01
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@tw3.757866.xyz:8080/?insecure=0&sni=tw3.757866.xyz#hy2%E5%8F%B0%E6%B9%BE03
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@tw07.352343.cc:8080/?insecure=0&sni=tw07.352343.cc#hy2%E5%8F%B0%E6%B9%BE04
@@ -1029,7 +1027,6 @@ hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@sg17.352343.cc:8080/?insecure=0
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@sg18.352343.cc:8080/?insecure=0&sni=sg18.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A118aws
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@sg19.453521.xyz:8080/?insecure=0&sni=sg19.453521.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A119aws
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@sg20.476579.xyz:8080/?insecure=0&sni=sg20.476579.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A120aws
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTJmOWY0Ny1kYmQ3LTQ3M2QtOThmOS00ZTkxOGE3ZTFlNTQ@[2400:8902::2000:fbff:fe02:5ed8]:8080#IPv6%E6%97%A5%E6%9C%AC01ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTJmOWY0Ny1kYmQ3LTQ3M2QtOThmOS00ZTkxOGE3ZTFlNTQ@[2401:b60:e0ce:20::1]:8080#IPv6%E9%A6%99%E6%B8%AF01ss
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@1jp003.156786.xyz:8081/?insecure=0&sni=1jp003.156786.xyz#%E6%97%A5%E6%9C%AC01aws
 hysteria2://3a2f9f47-dbd7-473d-98f9-4e918a7e1e54@hyfnjp01.156786.xyz:60000/?insecure=0&sni=hyfnjp01.156786.xyz&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#%E6%97%A5%E6%9C%AC02aws
@@ -1070,8 +1067,6 @@ vless://1aa84841-8701-4700-ad46-2923dc2900d0@tw06.352343.cc:8443?type=tcp&encryp
 vless://1aa84841-8701-4700-ad46-2923dc2900d0@tw5.453521.xyz:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E5%8F%B0%E6%B9%BE03
 vless://1aa84841-8701-4700-ad46-2923dc2900d0@[2600:1f14:3ba9:f400:9962:848f:9750:d696]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E7%BE%8E%E5%9B%BDIPv6
 vless://1aa84841-8701-4700-ad46-2923dc2900d0@[2406:da14:c79:fe00:f603:ff8:c1a8:62d0]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%97%A5%E6%9C%ACIPv6
-vless://1aa84841-8701-4700-ad46-2923dc2900d0@[2400:8902::2000:ecff:fe97:3d64]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%97%A5%E6%9C%AC01IPv6
-vless://1aa84841-8701-4700-ad46-2923dc2900d0@[2400:8901::2000:2fff:fe2b:aba5]:8443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.python.org&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#vless%E6%96%B0%E5%8A%A0%E5%9D%A101IPv6
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@5gzdx.233235.xyz:8080/?insecure=0&sni=5gzdx.233235.xyz#hy2%E5%8F%B0%E6%B9%BE01
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@tw3.757866.xyz:8080/?insecure=0&sni=tw3.757866.xyz#hy2%E5%8F%B0%E6%B9%BE03
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@tw07.352343.cc:8080/?insecure=0&sni=tw07.352343.cc#hy2%E5%8F%B0%E6%B9%BE04
@@ -1093,7 +1088,6 @@ hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg17.352343.cc:8080/?insecure=0
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg18.352343.cc:8080/?insecure=0&sni=sg18.352343.cc#%E6%96%B0%E5%8A%A0%E5%9D%A118aws
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg19.453521.xyz:8080/?insecure=0&sni=sg19.453521.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A119aws
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@sg20.476579.xyz:8080/?insecure=0&sni=sg20.476579.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A120aws
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYWE4NDg0MS04NzAxLTQ3MDAtYWQ0Ni0yOTIzZGMyOTAwZDA@[2400:8902::2000:fbff:fe02:5ed8]:8080#IPv6%E6%97%A5%E6%9C%AC01ss
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYWE4NDg0MS04NzAxLTQ3MDAtYWQ0Ni0yOTIzZGMyOTAwZDA@[2401:b60:e0ce:20::1]:8080#IPv6%E9%A6%99%E6%B8%AF01ss
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@1jp003.156786.xyz:8081/?insecure=0&sni=1jp003.156786.xyz#%E6%97%A5%E6%9C%AC01aws
 hysteria2://1aa84841-8701-4700-ad46-2923dc2900d0@hyfnjp01.156786.xyz:60000/?insecure=0&sni=hyfnjp01.156786.xyz&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#%E6%97%A5%E6%9C%AC02aws
@@ -1110,6 +1104,8 @@ trojan://1aa84841-8701-4700-ad46-2923dc2900d0@1.1.1.1:8080?allowInsecure=0&peer=
 trojan://1aa84841-8701-4700-ad46-2923dc2900d0@1.1.1.1:8080?allowInsecure=0&peer=1.1.1.1&sni=1.1.1.1&type=tcp#%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%AE%BE%E7%BD%AE%EF%BC%8C%E5%BC%80%E5%90%AFIPv6%20%EF%BC%8C%E7%94%A8%E6%89%8B%E6%9C%BA%E6%B5%81%E9%87%8F%E8%AF%95%E4%B8%8B
 trojan://1aa84841-8701-4700-ad46-2923dc2900d0@2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz:820?allowInsecure=0&peer=2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz&sni=2sg13cb2b6b4d-9b32-01a8-7574-376a171bb832.170203.xyz&type=tcp#%E7%94%B5%E6%8A%A5%E7%BE%A4https%3A%2F%2Ft.me%2Ffeiniaoyunjichang
 trojan://1aa84841-8701-4700-ad46-2923dc2900d0@2.2.2.2:820?allowInsecure=0&peer=2.2.2.2&sni=2.2.2.2&type=tcp#%E9%98%B2%E5%A4%B1%E8%81%94%E9%A1%B5https%3A%2F%2Fgithub.com%2Ffeiniaoyun
+trojan://notify@127.0.0.1:443?sni=notify#%E2%9A%A0%EF%B8%8F%20%E6%82%A8%E7%9A%84%E8%AE%A2%E9%98%85%E5%B7%B2%E8%A2%AB%E9%87%8D%E7%BD%AE%20%E8%AF%B7%E5%88%B0%E5%AE%98%E7%BD%91%E8%8E%B7%E5%8F%96%E6%96%B0%E9%93%BE%E6%8E%A5
+trojan://notify@127.0.0.1:443?sni=notify#%F0%9F%93%A2%20%E8%AE%A2%E9%98%85%E5%8F%AF%E8%83%BD%E9%81%AD%E5%88%B0%E6%B3%84%E6%BC%8F%20%E5%B7%B2%E8%87%AA%E5%8A%A8%E4%BF%9D%E6%8A%A4%E6%82%A8%E7%9A%84%E8%B4%A6%E5%8F%B7
 vmess://eyJ2IjoiMiIsInBzIjoiXHU1MjY5XHU0ZjU5XHU2ZDQxXHU5MWNmXHVmZjFhLTcuNDkgR0IiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20iLCJwb3J0IjoiMTY2MTciLCJpZCI6Ijk5MmIxYmM2LTZlMWUtNDU1ZC05NDBiLWU5OWJkMzlmNzBhMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjA2MDZmMjViYmI2NDZkZTNmZWFkYjhkMjNjMWM2MjE3Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHU1OTU3XHU5OTEwXHU1MjMwXHU2NzFmXHVmZjFhXHU5NTdmXHU2NzFmXHU2NzA5XHU2NTQ4IiwiYWRkIjoicGxhbmIubW9qY24uY29tIiwicG9ydCI6IjE2NjE3IiwiaWQiOiI5OTJiMWJjNi02ZTFlLTQ1NWQtOTQwYi1lOTliZDM5ZjcwYTIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIwNjA2ZjI1YmJiNjQ2ZGUzZmVhZGI4ZDIzYzFjNjIxNy5tb2Jnc2xiLnRiY2FjaGUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHU4ZmM3XHU2ZWU0XHU2Mzg5MTVcdTY3NjFcdTdlYmZcdThkZWYiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20iLCJwb3J0IjoiMTY2MTciLCJpZCI6Ijk5MmIxYmM2LTZlMWUtNDU1ZC05NDBiLWU5OWJkMzlmNzBhMiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjA2MDZmMjViYmI2NDZkZTNmZWFkYjhkMjNjMWM2MjE3Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
@@ -1214,7 +1210,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E8%AF%B7%E7%BB%AD%E8%B4%B9%E4%BD%BF%E7%94%A8%E2%9D%97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E7%BB%AD%E8%B4%B9%E5%90%8E%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E2%9D%97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%E5%AE%98%E7%BD%91%20https%3A%2F%2Fwww.qf1.us%E2%9D%97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E6%82%A8%E5%B7%B2%E5%88%B0%E6%9C%9F%E6%88%96%E6%B5%81%E9%87%8F%E7%94%A8%E5%AE%8C%E2%9D%97%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E8%AF%B7%E7%BB%AD%E8%B4%B9%E4%BD%BF%E7%94%A8%E2%9D%97%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E6%82%A8%E5%B7%B2%E5%88%B0%E6%9C%9F%E6%88%96%E6%B5%81%E9%87%8F%E7%94%A8%E5%AE%8C%E2%9D%97%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYWtlX25vZGVfcGFzc3dvcmQ@1.1.1.1:1080#%E2%9D%97%EF%B8%8F%E8%AF%B7%E7%BB%AD%E8%B4%B9%E4%BD%BF%E7%94%A8%E2%9D%97%EF%B8%8F
